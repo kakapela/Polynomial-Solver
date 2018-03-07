@@ -6,6 +6,11 @@
 ----
 * drawing mathematical graphs - Area Graph and Line Graph 
 * implementing Newton-Raphson method - method for finding successively better approximations to the roots (or zeroes) of a real-valued function
+### Libraries
+----
+* JFoenix
+* Exp4j
+* FontAwesomeFX
 
 ![s1](https://user-images.githubusercontent.com/34391192/37087869-d7624c2c-21fb-11e8-8619-2c3732eb400b.PNG)
 
